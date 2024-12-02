@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>WeLCOME To SUDARSHAN GROUP OF INSTITUTIONS</title>
+    <title>WeLCOME To Rohith GROUP OF INSTITUTIONS</title>
     <style>
         body {
             background-color: #eaeaea; /* Updated background color */
