@@ -50,7 +50,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome To SUDARSHAN GROUP OF INSTITUTIONS</h1>
+    <h1>Welcome To Rohith GROUP OF INSTITUTIONS</h1>
     <div class="container">
         <label for="uname"><b>Username:</b></label>
         <input type="text" placeholder="Enter Username" name="uname" required><br><br>
