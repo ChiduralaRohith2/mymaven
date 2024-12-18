@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +43,7 @@
 		</div>
 		<div class="row" style="background-color:orange">
             <ul class="nav rounded shadow" style="background-color: orange;">
-                <li class="nav-item btn btn-success m-3" ><a href="index.html" class="nav-link text-light active">Home</a></li>
+                <li class="nav-item btn btn-success m-3" ><a href="index.jsp" class="nav-link text-light active">Home</a></li>
                 <li class="nav-item btn btn-success m-3" ><a href="admin.jsp" class="nav-link text-light active">Admin</a></li>
                 <li class="nav-item btn btn-success m-3" ><a href="facultyLogin.html" class="nav-link text-light active ">Faculty</a></li>  
             </ul>
